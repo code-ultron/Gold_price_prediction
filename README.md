@@ -1,6 +1,3 @@
-# Gold Price Forecasting
-#### 🧑‍🏫 Author: [Nhi Yen](https://www.linkedin.com/in/yennhi95zz/)
-##### 💡I write about Machine Learning on [Medium](https://medium.com/@yennhi95zz) || [Github](https://github.com/yennhi95zz) || [Kaggle](https://www.kaggle.com/nhiyen/code) || [Linkedin](https://www.linkedin.com/in/yennhi95zz/). If you found this article interesting, your support by giving me ⭐ will help me spread the knowledge to others.
 
 ## Introduction
 
@@ -30,10 +27,3 @@ The results of the three models were compared based on their MAPE scores. The Ex
 
 ## Conclusion
 The Exponential Smoothing Model was used to predict the gold prices for the period 2020-08 to 2025-02. The predicted prices are stored in a CSV file named `gold_price_predictions.csv`.
-
-## References
-- Kaggle Dataset: [Monthly Gold Price](https://www.kaggle.com/datasets/nhiyen/monthly-gold-price)
-- Github Repo - [HERE](https://github.com/yennhi95zz/predict-gold-prices)
-- Kaggle Project - [HERE](https://www.kaggle.com/nhiyen/time-series-prediction-on-gold-prices)
-- Time Series Visualization on [Tableau](https://public.tableau.com/app/profile/nhi.yen/viz/TimeSeriesPredictiononGoldPrices/Dashboard1)
-- Detail Explanation about the code on [MEDIUM]([https://medium.com/@yennhi95zz/unleashing-the-power-of-e-commerce-sales-analysis-a-case-study-4c64871a86ee](https://medium.com/@yennhi95zz/time-series-prediction-on-gold-prices-a826fc2ead0c))
